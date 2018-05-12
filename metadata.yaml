@@ -1,5 +1,8 @@
 _repo: The-Boy-Allies-at-Verdun--Or-Saving-France-from-the-Enemy_13020
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hayes, Clair W. (Clair Wallace)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1939
 description: During World War I, two eighteen-year-old Americans serving in the French
   army, undertake dangerous missions at the battle of Verdun.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13020#The-Boy-Allies-at-Verdun--Or-Saving-France-from-the-Enemy
 gutenberg_bookshelf:
 - World War I
 - Children's Book Series
